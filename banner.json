@@ -1,0 +1,22 @@
+"ads_inapp_remote": {
+    "enabled": true,
+    "modal": {
+      "enabled": true,
+      "delay_seconds": 3,
+      "content": {
+        "image_url": "https://domettc.com/uploads/service/2024_03/banner_qrcode_marketing.png",
+        "title": "Khuyến mãi lớn!",
+        "description": "Giảm 50% cho đơn hàng đầu tiên.",
+        "cta_text": "Mua ngay",
+        "cta_link": "https://example.com/sale"
+      }
+    },
+    "floating": {
+      "enabled": true,
+      "position": "bottom_right",
+      "content": {
+        "image_url": "https://quangcaohaidang.com/wp-content/uploads/2024/09/4.-Thiet-ke-QR-code-300x300.jpg",
+        "cta_link": "https://example.com/info"
+      }
+    }
+  }
