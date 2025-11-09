@@ -1,4 +1,4 @@
-"ads_inapp_remote": {
+{"ads_inapp_remote": {
     "enabled": true,
     "modal": {
       "enabled": true,
@@ -19,4 +19,4 @@
         "cta_link": "https://example.com/info"
       }
     }
-  }
+  }}
