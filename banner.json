@@ -4,10 +4,10 @@
       "enabled": true,
       "delay_seconds": 5,
       "content": {
-        "image_url": "https://domettc.com/uploads/service/2024_03/banner_qrcode_marketing.png",
-        "title": "Khuyến mãi lớn!",
-        "description": "Giảm 50% cho đơn hàng đầu tiên.",
-        "cta_text": "Mua ngay",
+        "image_url": "https://raw.githubusercontent.com/hdoonline/hdotv/refs/heads/main/ad1.png",
+        "title": "Contact us for the Ad",
+        "description": "Connect to thousands of user",
+        "cta_text": "Contact Now",
         "cta_link": "https://example.com/sale"
       }
     },
