@@ -2,7 +2,7 @@
     "enabled": true,
     "modal": {
       "enabled": true,
-      "delay_seconds": 3,
+      "delay_seconds": 5,
       "content": {
         "image_url": "https://domettc.com/uploads/service/2024_03/banner_qrcode_marketing.png",
         "title": "Khuyến mãi lớn!",
