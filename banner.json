@@ -1,5 +1,5 @@
 {"ads_inapp_remote": {
-    "enabled": true,
+    "enabled": false,
     "modal": {
       "enabled": true,
       "delay_seconds": 30,
